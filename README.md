@@ -13,3 +13,5 @@ testing out markup and how to use readme's
     git checkout blah
 ```
 
+### In the words of Abraham Lincoln:
+> Pardon my French
